@@ -1,0 +1,8 @@
+GET /api/products/3 2025
+GET /api/products/3 2025
+GET /api/products/3 2025
+GET /api/products/3 2025
+GET /api/products/3 2025
+GET /api/v1/query?search=c&limit=3 2025
+GET /api/v1/query?search=c&limit=3 2025
+GET /api/v1/query?search=a 2025
